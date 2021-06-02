@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hive on newcome`s blog</title>
+    <link>https://newcomn.com/tags/hive/</link>
+    <description>Recent content in hive on newcome`s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jun 2021 09:53:00 +0800</lastBuildDate><atom:link href="https://newcomn.com/tags/hive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>数据倾斜</title>
+      <link>https://newcomn.com/post/bigdata/%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C/</link>
+      <pubDate>Tue, 01 Jun 2021 09:53:00 +0800</pubDate>
+      
+      <guid>https://newcomn.com/post/bigdata/%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C/</guid>
+      <description>Hive数据倾斜优化 数据倾斜表现 任务日志进度长度为99%，在日志监控进度条显示只有几个reduce进度一直没有完成。 某一reduce处理时长</description>
+    </item>
+    
+  </channel>
+</rss>

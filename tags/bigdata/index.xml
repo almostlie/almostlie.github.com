@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bigdata on newcome`s blog</title>
+    <link>https://newcomn.com/tags/bigdata/</link>
+    <description>Recent content in bigdata on newcome`s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jun 2021 09:53:00 +0800</lastBuildDate><atom:link href="https://newcomn.com/tags/bigdata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>数据倾斜</title>
+      <link>https://newcomn.com/post/bigdata/%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C/</link>
+      <pubDate>Tue, 01 Jun 2021 09:53:00 +0800</pubDate>
+      
+      <guid>https://newcomn.com/post/bigdata/%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C/</guid>
+      <description>Hive数据倾斜优化 数据倾斜表现 任务日志进度长度为99%，在日志监控进度条显示只有几个reduce进度一直没有完成。 某一reduce处理时长</description>
+    </item>
+    
+    <item>
+      <title>clickhouse简介与数据库对比</title>
+      <link>https://newcomn.com/post/database/clickhousecompare/</link>
+      <pubDate>Tue, 29 Dec 2020 15:59:00 +0800</pubDate>
+      
+      <guid>https://newcomn.com/post/database/clickhousecompare/</guid>
+      <description>ClickHouse是一个用于联机分析(OLAP)的列式数据库管理系统(DBMS). 我们先来了解一下OLTP和OLAP的区别. OLTP 和 OLAP OLTP online transaction processing</description>
+    </item>
+    
+    <item>
+      <title>kafka</title>
+      <link>https://newcomn.com/post/bigdata/kafka/</link>
+      <pubDate>Thu, 12 Nov 2020 17:27:00 +0800</pubDate>
+      
+      <guid>https://newcomn.com/post/bigdata/kafka/</guid>
+      <description>kafka简介 基本概念 Producer:消息和数据的生产者,向kafka的一个topic发布消息的进程/代码/服务. Consumer:消息和</description>
+    </item>
+    
+  </channel>
+</rss>
